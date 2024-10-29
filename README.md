@@ -12,6 +12,8 @@
 
 * Após criar as classes, implemente uma classe principal (Main) que crie instâncias dos dois tipos de funcionários e invoque o método calcularBonus() para mostrar o valor do bônus de cada funcionário.
 
+[Diagrama](assets/DiagramaInterface.png).
+
 🛠️ Construído com:
 
 > EclipseIDE
